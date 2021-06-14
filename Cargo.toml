@@ -1,0 +1,9 @@
+[package]
+name = "rtd1296-synology-rust-builder"
+version = "0.1.0"
+authors = ["Marcin Twardak <marcin.twardak@consult.red>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
